@@ -1,4 +1,4 @@
----PROYECTO-3 DE FUNDAMENTOS DE PROGRAMACIOH---
+---PROYECTO-3 DE FUNDAMENTOS DE PROGRAMACION---
 
 En este proyecto se realizo un programa para simular un cajero automatico en el cual se ingresa una cantidad de dinero con un saldo en cuenta ya establecido,el cual dara el dinero a retirar 
 mostrara la denominacion de los billetes que se utilizaron.
